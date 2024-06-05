@@ -1,6 +1,6 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1C6lZLVKBa5zi70p5qiMOPXYWIzWgnK-X
-  version: 1
+ version: 1
 indices:
   site:
     include:
